@@ -12,4 +12,9 @@ lol!
 
 third time!
 
+<<<<<<< HEAD
 The 3rd Branch!
+=======
+testing stage 1
+
+>>>>>>> testing
